@@ -2,3 +2,8 @@ this is the sample text for the folder1
 
 
 this is the second sample text for the folder1
+
+
+
+this is a sample solution for the addition of two numbers
+1 + 1 = 2
